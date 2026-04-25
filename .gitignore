@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# OS files
+.DS_Store
+Desktop.ini
+
+# Windows system folders (safety net)
+AppData/
+
+# Editor settings
+.vscode/
+
+# Logs / databases
+*.log
+*.sqlite3
