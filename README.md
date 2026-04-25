@@ -1,1 +1,1 @@
-# Project
+# Stock Chatbot with trained models
