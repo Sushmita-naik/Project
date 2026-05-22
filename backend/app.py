@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-
 from services.nlp_service import extract_stock, detect_intent
 from services.stock_service import get_stock
 from services.prediction_service import predict_stock
